@@ -11,85 +11,85 @@ a:hover {
 }
 
 #demo .box {
-  padding: 100px 0 250px;
+  padding: 50px 0 50px;
   position: relative;
 }
 #demo .box .minibox {
   background-color: #7683f8;
-  width: 250px;
-  height: 250px;
-  margin: 15px;
-  font-size: 30px;
-  padding: 10px 0 0 15px;
+  width: 50px;
+  height: 50px;
+  margin: 2px;
+  font-size: 7px;
+  padding: 3px 0 0 3px;
   color: #ffffff;
 }
 #demo .box2 {
   position: absolute;
-  top: 640px;
-  left: 395px;
+  top: 155px;
+  left: 70px;
 }
 #demo .box1 {
-  padding: 300px 0 250px;
+  padding: 50px 0 50px;
   position: relative;
 }
 #demo .box1 .minibox {
-  width: 250px;
-  height: 250px;
+  width: 50px;
+  height: 50px;
   background-color: #468577;
-  margin: 10px;
+  margin: 2px;
   color: #ffffff;
-  font-size: 30px;
-  padding: 10px 0 0 15px;
+  font-size: 7px;
+  padding: 3px 0 0 3px;
 }
 #demo .box3 {
   position: absolute;
-  top: 305px;
-  left: 380px;
+  top: 50px;
+  left: 70px;
 }
 #demo .box4 {
   position: absolute;
-  top: 565px;
-  left: 380px;
+  top: 102px;
+  left: 70px;
 }
 #demo .box5 {
-  padding: 300px 0 250px;
+  padding: 50px 0 50px;
   position: relative;
 }
 #demo .box5 .minibox {
-  width: 250px;
-  height: 250px;
+  width: 50px;
+  height: 50px;
   background-color: #eea5e8;
-  margin: 10px;
+  margin: 2px;
   color: #ffffff;
-  font-size: 30px;
-  padding: 10px 0 0 15px;
+  font-size: 7px;
+  padding: 3px 0 0 3px;
 }
 #demo .box6 {
   position: absolute;
-  top: 1080px;
-  left: 550px;
+  top: 205px;
+  left: 130px;
 }
 #demo .box7 {
-  padding: 300px 0 250px;
+  padding: 50px 0 50px;
   position: relative;
 }
 #demo .box7 .minibox {
-  width: 250px;
-  height: 250px;
+  width: 50px;
+  height: 50px;
   background-color: #eea5e8;
-  margin: 10px;
+  margin: 2px;
   color: #ffffff;
-  font-size: 30px;
-  padding: 10px 0 0 15px;
+  font-size: 7px;
+  padding: 3px 0 0 3px;
 }
 #demo .box7 p {
-  width: 1230px;
-  height: 250px;
+  width: 395px;
+  height: 80px;
   color: #080808;
-  font-size: 31px;
+  font-size: 10px;
 }
 #demo .box9 {
   position: absolute;
-  top: 560px;
-  left: 1850px;
+  top: 130px;
+  left: 550px;
 }/*# sourceMappingURL=style.css.map */
