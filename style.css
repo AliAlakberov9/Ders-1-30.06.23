@@ -92,7 +92,7 @@ a:hover {
 #demo .box9 {
   position: fixed;
   bottom: 550px;
-  right: 1100px;
+  right: 600px;
 }
 #demo .box8 {
   padding: 50px 0 50px;
@@ -115,6 +115,6 @@ a:hover {
 }
 #demo .box10 {
   position: absolute;
-  top: 380px;
-  left: 1450px;
+  top: 405px;
+  left: 800px;
 }/*# sourceMappingURL=style.css.map */
